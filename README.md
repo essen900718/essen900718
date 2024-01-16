@@ -1,5 +1,4 @@
 ﻿<h1 align="center">Hi 👋, I'm Isadora</h1>
-<h3 align="center">student majors in computer science engineering</h3>
 
 ![](https://raw.githubusercontent.com/essen900718/essen900718/1f7afe0f05b3af60538b56828f4e6098fd1c180e/github-contribution-grid-snake.svg)
 
